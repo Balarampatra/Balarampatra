@@ -2,9 +2,15 @@
 
 <h1 align="center">Hi 👋, I'm Balaram Patra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" align="right" alt="Coding Image" align="right">
+<p align="left">
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balarampatra&label=Profile%20views&color=0e75b6&style=flat" alt="balarampatra" /> </p>
+
+
 
 - 🌱 I’m currently learning **react native**
 
