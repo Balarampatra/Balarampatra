@@ -1,12 +1,10 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Balaram Patra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=VON9gHTr&id=E43A15DF70EF8C7D6F8C281CB6211E2B48C97D7D&thid=OIP.VON9gHTrzeHZbHfXsqfzEAHaEq&mediaurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f54%2fe3%2f7d%2f54e37d8074ebcde1d96c77d7b2a7f310.gif&exph=428&expw=680&q=animated+coding+gif&simid=608048923482787914&FORM=IRPRST&ck=6294EFF82FC0C22485390F41259680AA&selectedIndex=1&itb=0"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balarampatra&label=Profile%20views&color=0e75b6&style=flat" alt="balarampatra" /> </p>
-
-<p align="left"> <a href="https://twitter.com/https://x.com/balarampatra563?t=5ioc2g3ujp94xalknmjdlg&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/balarampatra563?t=5ioc2g3ujp94xalknmjdlg&s=09?logo=twitter&style=for-the-badge" alt="https://x.com/balarampatra563?t=5ioc2g3ujp94xalknmjdlg&s=09" /></a> </p>
 
 - 🌱 I’m currently learning **react native**
 
